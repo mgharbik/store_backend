@@ -43,3 +43,5 @@ group :development, :test do
   gem 'spring'
 end
 
+gem 'spree_backend', github: 'spree/spree'
+gem 'devise'
